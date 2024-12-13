@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Iphone 16",
+      "company": "Apple",
+      "image": "https://i.postimg.cc/vTgmj5Kh/iphone-16.jpg",
+      "price": 3000
+    },
+    {
+      "name": "Aata",
+      "company": "Generic",
+      "image": "https://i.postimg.cc/Mpynqbpr/aata.jpg",
+      "price": 40
+    },
+    {
+      "name": "HP Victus 15",
+      "company": "HP",
+      "image": "https://i.postimg.cc/85n5tZZs/hp-victus.jpg",
+      "price": 70000
+    },
+    {
+      "name": "Jeans",
+      "company": "Levi's",
+      "image": "https://i.postimg.cc/Zq4CRB9Y/cotton-pants.jpg",
+      "price": 1500
+    },
+    {
+      "name": "Acer Nitro 5",
+      "company": "Acer",
+      "image": "https://i.postimg.cc/c4tK5NyW/acer-nitro-5.jpg",
+      "price": 60000
+    }
+  ]
+  
